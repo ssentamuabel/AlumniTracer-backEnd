@@ -475,7 +475,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
  
         
     <build>
-        <finalName>SpringMVCTemplate-backend</finalName>
+        <finalName>alumniTracer-backend</finalName>
          <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 .profile-image {
-   
+
     width: 100px;
     height: 100px;
     display: block !important;
@@ -27,11 +27,10 @@ and open the template in the editor.
     object-fit: cover;
 }
 
-.big-card-numbers{
+.big-card-numbers {
     text-align: right !important;
     align-items: flex-end;
     padding-top: 10%;
-
 
 
 }
